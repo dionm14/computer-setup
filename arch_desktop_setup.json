@@ -17,7 +17,9 @@
         "NetworkManager": true,
     },
     "ntp": true,
-    "packages": ["bash", "git", "neovim", "gamemode"],
+    "packages": [
+        "bash", "git", "neovim"
+    ],
     "profile": "sway",
     "sys-encoding": "utf-8",
     "sys-language": "en_US",
