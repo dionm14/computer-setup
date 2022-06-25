@@ -1,10 +1,6 @@
 {
     "audio": "pipewire",
     "bootloader": "systemd-bootctl",
-    "custom-commands": [
-        ""
-        
-    ],
     "filesystem": "btrfs",
     "gfx_driver": "Nvidia",
     "harddrives": [
